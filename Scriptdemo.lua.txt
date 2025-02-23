@@ -36,7 +36,6 @@ local Tab3o = MakeTab({Name = "script TraiCay"})
      local Tab4o = MakeTab({Name = "Script bay"})
      local Tab5o = MakeTab({Name = "script fix lag"})
      local Tab6o = MakeTab({Name = "script get key"})
-     local Tab7o = MakeTab({Name = "đổi sever có boss"})
 ------- BUTTON
     
     AddButton(Tab1o, {
@@ -175,17 +174,20 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitin
   end
   })
 
-AddButton(Tab7o, {
-     Name = "đổi sever có Rip_lndra",
+AddButton(Tab1o, {
+     Name = "doraemon v2",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercomtent.com/AnpZaihub/AnbeoDeqTrai/heads/main/Rip_Indra"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/obfmoonsec/Masterhub/refs/heads/main/obf"))()
   end
   })
 
-AddButton(Tab7o, {
-     Name = "đổi sever có kata v2",
+AddButton(Tab1o, {
+     Name = "speed hub",
     Callback = function()
-	  loadstring(game:HttpGet("https://raw.githubusercomtent.com/skibiditoiletgojo/Haidepzai/refs/heads/main/AutoDoughking-kill-Teddy"))()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"))()
   end
   })
   
+  
+
+ 
