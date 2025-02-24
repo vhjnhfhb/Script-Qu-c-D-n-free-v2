@@ -1,1 +1,196 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _SrgDUnfZcGTw = a; end)); bG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoKCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZGF1Y29ib25oaS9VaS1SZWR6LVYyL3JlZnMvaGVhZHMvbWFpbi9VaVJFRHpWMi5sdWEiKSkpKCkKCiAgICAgICBsb2NhbCBXaW5kb3cgPSBNYWtlV2luZG93KHsKICAgICAgICAgSHViID0gewogICAgICAgICBUaXRsZSA9ICLEkeG7qWMgUm9ibG94IiwuCiAgICAgICAgIEFuaW1hdGlvbiA9ICJZb3V0dWJlOiDEkeG7qWMgUm9ibG94IgogICAgICAgICB9LAogICAgICAgIEtleSA9IHsKICAgICAgICBLZXlTeXN0ZW0gPSBmYWxzZSwKICAgICAgICBUaXRsZSA9ICJLZXkgU3lzdGVtIiwKICAgICAgICBEZXNjcmlwdGlvbiA9ICIiLAogICAgICAgIEtleUxpbmsgPSAiIiwKICAgICAgICBLZXlzID0geyIxMjM0In0sCiAgICAgICAgTm90aWZpID0gewogICAgICAgIE5vdGlmaWNhdGlvbnMgPSB0cnVlLAogICAgICAgIENvcnJlY3RLZXkgPSAiUnVubmluZyB0aGUgU2NyaXB0Li4uIiwKICAgICAgIEluY29ycmVjdGtleSA9ICJUaGUga2V5IGlzIGluY29ycmVjdCIsCiAgICAgICBDb3B5S2V5TGluayA9ICJDb3BpZWQgdG8gQ2xpcGJvYXJkIgogICAgICB9CiAgICB9CiAgfSkKCiAgICAgICBNaW5pbWl6ZUJ1dHRvbih7CiAgICAgICBJbWFnZSA9ICJodHRwOi8vd3d3LnJvYmxveC5jb20vYXNzZXQvP2lkPTEyMjQ3MzkxODI3ODUwMSIsCiAgICAgICBTaXplID0gezYwLCA2MH0sCiAgICAgICBDb2xvciA9IENvbG9yMy5mcm9tUkdCKDEwLCAxMCwgMTApLAogICAgICAgQ29ybmVyID0gdHJ1ZSwKICAgICAgIFN0cm9rZSA9IGZhbHNlLAogICAgICAgU3Ryb2tlQ29sb3IgPSBDb2xvcjMuZnJvbVJHQigyNTUsIDAsIDApCiAgICAgIH0pCiAgICAgIAotLS0tLS0gVGFiCiAgICAgbG9jYWwgVGFiMW8gPSBNYWtlVGFiKHtOYW1lID0gIlNjcmlwdCBGYXJtIn0pCiAgICAgbG9jYWwgVGFiMm8gPSBNYWtlVGFiKHtOYW1lID0gInNjcmlwdCBrYWl0YW4ifSkKbG9jYWwgVGFiM28gPSBNYWtlVGFiKHtOYW1lID0gInNjcmlwdCBUcmFpQ2F5In0pCiAgICAgbG9jYWwgVGFiNG8gPSBNYWtlVGFiKHtOYW1lID0gIlNjcmlwdCBiYXkifSkKICAgICBsb2NhbCBUYWI1byA9IE1ha2VUYWIoe05hbWUgPSAic2NyaXB0IGZpeCBsYWcifSkKICAgICBsb2NhbCBUYWI2byA9IE1ha2VUYWIoe05hbWUgPSAic2NyaXB0IGdldCBrZXkifSkKLS0tLS0tLSBCVVRUT04KICAgIAogICAgQWRkQnV0dG9uKFRhYjFvLCB7CiAgICAgTmFtZSA9ICJSZWR6IEh1YiIsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKCkKCSAgbG9jYWwgU2V0dGluZ3MgPSB7CiAgSm9pblRlYW0gPSAiUGlyYXRlcyI7IC0tIFBpcmF0ZXMvTWFyaW5lcwogIFRyYW5zbGF0b3IgPSB0cnVlOyAtLSB0cnVlL2ZhbHNlCn0KCmxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcmVhbHJlZHovQmxveEZydWl0cy9yZWZzL2hlYWRzL21haW4vU291cmNlLmx1YSIpKShTZXR0aW5ncykKICBlbmQKICB9KQogIAogIEFkZEJ1dHRvbihUYWIybywgewogICAgIE5hbWUgPSAiS2FpdGFuIGh1YiIsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKCkKCSAgbG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9UQm95Um9ibG94NzI3L1RCb3lSb2Jsb3hZVC9yZWZzL2hlYWRzL21haW4vYmxveGZydWl0LWthaXRhbi1tYWluLmx1YSIpKSgpCiAgZW5kCiAgfSkKICAKICBBZGRCdXR0b24oVGFiM28sIHsKICAgICBOYW1lID0gIlRyYWlDYXkgaHViIiwKICAgIENhbGxiYWNrID0gZnVuY3Rpb24oKQoJICBsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldCgiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1R1cmJvTGl0ZS9TY3JpcHQvcmVmcy9oZWFkcy9tYWluL1RyYWlDYXkubHVhIikpKCkKICBlbmQKICB9KQogIAogICAgICBBZGRCdXR0b24oVGFiMW8sIHsKICAgICBOYW1lID0gIlRy4bqpdSByb2Jsb3ggaHViIiwKICAgIENhbGxiYWNrID0gZnVuY3Rpb24oKQoJICBsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldCgiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0x1YUNyYWNrL1RyYXVIdWIvcmVmcy9oZWFkcy9tYWluL1RyYXVWMSIpKSgpCiAgZW5kCiAgfSkKICAKICBBZGRCdXR0b24oVGFiMW8sIHsKICAgICBOYW1lID0gIk1pbiBHYW1pbmcgaHViIiwKICAgIENhbGxiYWNrID0gZnVuY3Rpb24oKQoJICBsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldCgiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0x1YUNyYWNrL01pbi9yZWZzL2hlYWRzL21haW4vTWluQUUiKSkoKQogIGVuZAogIH0pCiAgCiAgQWRkQnV0dG9uKFRhYjFvLCB7CiAgICAgTmFtZSA9ICIgdyBhenVyZSBodWIiLAogICAgQ2FsbGJhY2sgPSBmdW5jdGlvbigpCgkgIGxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL2FwaS5sdWFybW9yLm5ldC9maWxlcy92My9sb2FkZXJzLzNiMjE2OWNmNTNiYzYxMDRkYWJlOGUxOTU2MmU1Y2MyLmx1YSIpKSgpICAKICBlbmQKICB9KQogIAogICAgICBBZGRCdXR0b24oVGFiMW8sIHsKICAgICBOYW1lID0gImhvaG9obyBodWIiLAogICAgQ2FsbGJhY2sgPSBmdW5jdGlvbigpCgkgIGxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vYWNzdTEyMy9IT0hPX0gvbWFpbi9Mb2FkaW5nX1VJIikpKCkgCiAgZW5kCiAgfSkKICAKICBBZGRCdXR0b24oVGFiMW8sIHsKICAgICBOYW1lID0gInF1YW50dW0gaHViIiwKICAgIENhbGxiYWNrID0gZnVuY3Rpb24oKQoJICBsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldCgiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RydXN0bWVub3Rjb25kb20vUVRPTllYL3JlZnMvaGVhZHMvbWFpbi9RdWFudHVtT255eC5sdWEiKSkoKQogIGVuZAogIH0pCiAgCiAgQWRkQnV0dG9uKFRhYjRvLCB7CiAgICAgTmFtZSA9ICJzY3JpcHQgYmF5ICIsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKCkKCSAgbG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9YTkVPRkYvRmx5R3VpVjMvbWFpbi9GbHlHdWlWMy50eHQiKSkoKQogIGVuZAogIH0pCiAgCiAgQWRkQnV0dG9uKFRhYjVvLCB7CiAgICAgTmFtZSA9ICJGaXggbGFnIFR1cmJvIGh1YiIsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKCkKCSAgbG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9UdXJib0xpdGUvU2NyaXB0L21haW4vRml4TGFnLmx1YSIpKSgpCiAgZW5kCiAgfSkKICAKICBBZGRCdXR0b24oVGFiMW8sIHsKICAgICBOYW1lID0gIlRlZGR5IGh1YiIsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKCkKCSAgbGxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc2tpYmlkaXRvaWxldGdvam8vSGFpZGVwemFpL3JlZnMvaGVhZHMvbWFpbi9UZWRkeUh1YnYyIikpKCkKICBlbmQKICB9KQogIAogIEFkZEJ1dHRvbihUYWIxbywgewogICAgIE5hbWUgPSAiQW5nZXJ5IGh1YiIsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKCkKCWxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL2dpc3QuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FuZ3J5NS9lYzIwMzQ3YTc0YWE0ZTQ2YzcxYjE1YjYwOTNlZWFmNS9yYXcvQW5nZXJ5Lmx1YSIpKSgpCiAgZW5kCiAgfSkKICAKICAgICAgQWRkQnV0dG9uKFRhYjFvLCB7CiAgICAgTmFtZSA9ICJYZXJvIGh1YiIsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKCkKCWxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vWGVybzI0MDkvWGVyb0h1Yi9yZWZzL2hlYWRzL21haW4vbWFpbi5sdWEiKSkoKQogIGVuZAogIH0pCiAgCiAgICAgIEFkZEJ1dHRvbihUYWIxbywgewogICAgIE5hbWUgPSAicnVidSBodWIgdjIiLAogICAgQ2FsbGJhY2sgPSBmdW5jdGlvbigpCglsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldCgiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0J1YnUyay9SdWJ1dHYvcmVmcy9oZWFkcy9tYWluL1J1YnVIdWJWMy50eHQiKSkoKQogIGVuZAogIH0pCiAgCiAgQWRkQnV0dG9uKFRhYjFvLCB7CiAgICAgTmFtZSA9ICJCYXBSZWQgaHViIiwKICAgIENhbGxiYWNrID0gZnVuY3Rpb24oKQoJICBsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldCgiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0x1YUNyYWNrL0JhcFJlZC9tYWluL0JhcFJlZEh1YiIpKSgpCiAgZW5kCiAgfSkKICAKICAgICAgQWRkQnV0dG9uKFRhYjRvLCB7CiAgICAgTmFtZSA9ICJjdXRUYXkgaHViIiwKICAgIENhbGxiYWNrID0gZnVuY3Rpb24oKQoJbG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoJ2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9kaWVtcXV5L0N1dFRheUh1Yi9tYWluL0N1dHRheWh1YnJlYWwubHVhJykpKCkKICBlbmQKICB9KQogICAKQWRkQnV0dG9uKFRhYjZvLCB7CiAgICAgTmFtZSA9ICJtYXJ1IGh1YiIsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKCkKCSAgZ2V0Z2VudigpLktleSA9ICIiCmdldGdlbnYoKS5pZCA9ICIiCmxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veHNoaWJhL01hcnVCaXRrdWIvbWFpbi9Nb2JpbGUubHVhIikpKCkKICBlbmQKICB9KQogIAogIEFkZEJ1dHRvbihUYWI2bywgewogICAgIE5hbWUgPSAiYmFuYW5hIGh1YiIsCiAgICBDYWxsYmFjayA9IGZ1bmN0aW9uKCkKCSAgcmVwZWF0IHdhaXQoKXVudGlsIGdhbWU6SXNMb2FkZWQoKWFuZApnYW1lLlBsYXllcnMuTG9jYWxQbGF5ZXIKZ2V0Z2VudigpLktleSA9ImdldCBrZXkiCmxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vb2JpaXlldWVtL3Z0aGFuZ3NpdGluay9tYWluL0JhbmFuYUh1Yi5sdWEiKSkoKQogIGVuZAogIH0pCiAgCiAgQWRkQnV0dG9uKFRhYjFvLCB7CiAgICAgTmFtZSA9ICJTcGVlZCBodWIiLAogICAgQ2FsbGJhY2sgPSBmdW5jdGlvbigpCgkgIGxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vQWhtYWRWOTkvU3BlZWQtSHViLVgvbWFpbi9TcGVlZCUyMEh1YiUyMFgubHVhIikpKCkKICBlbmQKICB9KQogIAogIEFkZEJ1dHRvbihUYWIxbywgewogICAgIE5hbWUgPSAiRG9yYWVtb24gdjIgaHViIiwKICAgIENhbGxiYWNrID0gZnVuY3Rpb24oKQoJICBsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldCgiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL29iZm1vb25zZWMvTWFzdGVyaHViL3JlZnMvaGVhZHMvbWFpbi9vYmYiKSkoKQogIGVuZAogIH0pCiAgCiAgQWRkQnV0dG9uKFRhYjFvLCB7CiAgICAgTmFtZSA9ICJhbmRlcHphaSB04buVbmcgaOG7o3AgaHViIiwKICAgIENhbGxiYWNrID0gZnVuY3Rpb24oKQoJICBsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldCgiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3NraWJpZGl0b2lsZXRnb2pvL0hhaWRlcHphaS9yZWZzL2hlYWRzL21haW4vVGVkZHlIb3AtRlJFRSIpKSgpCiAgZW5kCiAgfSkKICAKICAgICAgCiAgICA=
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V2/refs/heads/main/UiREDzV2.lua")))()
+
+       local Window = MakeWindow({
+         Hub = {
+         Title = "đức Roblox",.
+         Animation = "Youtube: đức Roblox"
+         },
+        Key = {
+        KeySystem = false,
+        Title = "Key System",
+        Description = "",
+        KeyLink = "",
+        Keys = {"1234"},
+        Notifi = {
+        Notifications = true,
+        CorrectKey = "Running the Script...",
+       Incorrectkey = "The key is incorrect",
+       CopyKeyLink = "Copied to Clipboard"
+      }
+    }
+  })
+
+       MinimizeButton({
+       Image = "http://www.roblox.com/asset/?id=122473918278501",
+       Size = {60, 60},
+       Color = Color3.fromRGB(10, 10, 10),
+       Corner = true,
+       Stroke = false,
+       StrokeColor = Color3.fromRGB(255, 0, 0)
+      })
+      
+------ Tab
+     local Tab1o = MakeTab({Name = "Script Farm"})
+     local Tab2o = MakeTab({Name = "script kaitan"})
+local Tab3o = MakeTab({Name = "script TraiCay"})
+     local Tab4o = MakeTab({Name = "Script bay"})
+     local Tab5o = MakeTab({Name = "script fix lag"})
+     local Tab6o = MakeTab({Name = "script get key"})
+------- BUTTON
+    
+    AddButton(Tab1o, {
+     Name = "Redz Hub",
+    Callback = function()
+	  local Settings = {
+  JoinTeam = "Pirates"; -- Pirates/Marines
+  Translator = true; -- true/false
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings)
+  end
+  })
+  
+  AddButton(Tab2o, {
+     Name = "Kaitan hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TBoyRoblox727/TBoyRobloxYT/refs/heads/main/bloxfruit-kaitan-main.lua"))()
+  end
+  })
+  
+  AddButton(Tab3o, {
+     Name = "TraiCay hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/refs/heads/main/TraiCay.lua"))()
+  end
+  })
+  
+      AddButton(Tab1o, {
+     Name = "Trẩu roblox hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/TrauHub/refs/heads/main/TrauV1"))()
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "Min Gaming hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinAE"))()
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = " w azure hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))()  
+  end
+  })
+  
+      AddButton(Tab1o, {
+     Name = "hohoho hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))() 
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "quantum hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Trustmenotcondom/QTONYX/refs/heads/main/QuantumOnyx.lua"))()
+  end
+  })
+  
+  AddButton(Tab4o, {
+     Name = "script bay ",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
+  end
+  })
+  
+  AddButton(Tab5o, {
+     Name = "Fix lag Turbo hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "Teddy hub",
+    Callback = function()
+	  lloadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletgojo/Haidepzai/refs/heads/main/TeddyHubv2"))()
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "Angery hub",
+    Callback = function()
+	loadstring(game:HttpGet("https://gist.githubusercontent.com/angry5/ec20347a74aa4e46c71b15b6093eeaf5/raw/Angery.lua"))()
+  end
+  })
+  
+      AddButton(Tab1o, {
+     Name = "Xero hub",
+    Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Xero2409/XeroHub/refs/heads/main/main.lua"))()
+  end
+  })
+  
+      AddButton(Tab1o, {
+     Name = "rubu hub v2",
+    Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Bubu2k/Rubutv/refs/heads/main/RubuHubV3.txt"))()
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "BapRed hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/BapRed/main/BapRedHub"))()
+  end
+  })
+  
+      AddButton(Tab4o, {
+     Name = "cutTay hub",
+    Callback = function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/diemquy/CutTayHub/main/Cuttayhubreal.lua'))()
+  end
+  })
+   
+AddButton(Tab6o, {
+     Name = "maru hub",
+    Callback = function()
+	  getgenv().Key = ""
+getgenv().id = ""
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()
+  end
+  })
+  
+  AddButton(Tab6o, {
+     Name = "banana hub",
+    Callback = function()
+	  repeat wait()until game:IsLoaded()and
+game.Players.LocalPlayer
+getgenv().Key ="get key"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "Speed hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"))()
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "Doraemon v2 hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/obfmoonsec/Masterhub/refs/heads/main/obf"))()
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "andepzai tổng hợp hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletgojo/Haidepzai/refs/heads/main/TeddyHop-FREE"))()
+  end
+  })
